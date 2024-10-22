@@ -4,6 +4,4 @@ matplotlib==3.7.2
 seaborn==0.12.2
 openpyxl==3.1.2
 xlsxwriter==3.1.0
-pillow==9.2.0
-setuptools>=68.0.0
-wheel==0.41.2
+pillow-simd==7.0.0.post3
